@@ -1,1 +1,1 @@
-GET http://localhost:3001/api/persons/
+GET https://shrouded-brushlands-62076.herokuapp.com/api/persons/
