@@ -6,3 +6,18 @@ Content-Type: application/json
   "number": "0770"
 }
 ###
+POST http://localhost:3001/api/persons/
+Content-Type: application/json
+
+{
+  "name": "La",
+  "number": "07235"
+}
+###
+PUT http://localhost:3001/api/persons/61842c47d990a0e0b8b7acd7
+Content-Type: application/json
+
+{
+  "name": "Mama Nava",
+  "number": "07453652"
+}

@@ -2,3 +2,4 @@ node_modules/
 phonebook/.idea
 notes/.idea
 .idea/*
+.env
